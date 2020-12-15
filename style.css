@@ -1,0 +1,41 @@
+body{
+    background-color: #41B3A3;
+    text-align: center;
+}
+
+h1{
+    padding-top: 50px;
+    font-size: 50px;
+    
+}
+
+h1, h2, h3{
+    color: white;
+    font-family: "Georgia";
+}
+
+.playerBox, .computerBox{
+    display: inline-block;
+    margin: 25px;
+    position: relative;
+    width: 350px;
+    padding-left: 0px;
+    border: 5px solid white;
+}
+
+.scoreP, .scoreC{
+    
+}
+
+
+.results{
+    color: white;
+}
+
+button{
+    background-color: #E8A87C;
+    color: white;
+    font-weight: bold;
+    width: 75px;
+    height: 25px;
+}
